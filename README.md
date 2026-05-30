@@ -12,16 +12,16 @@ End-to-end retail analytics project analyzing 500,000+ transactions from the Onl
 ## 📊 Dashboard Screenshots
 
 ### Executive Summary
-![Executive Summary](screenshots/01_Executive_Summary.png)
+![Executive Summary](screenshots/01_Executive_Overview.png)
 
 ### Product Analysis
 ![Product Analysis](screenshots/02_Product_Analysis.png)
 
 ### Returns Analysis
-![Returns Analysis](screenshots/03_Returns_Analysis.png)
+![Returns Analysis](screenshots/03_Return_Analysis.png)
 
 ### Business Insights
-![Business Insights](screenshots/04_Business_Insights.png)
+![Business Insights](screenshots/04_Business_Insight.png)
 
 ---
 
