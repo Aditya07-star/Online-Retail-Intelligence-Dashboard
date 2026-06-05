@@ -6,6 +6,10 @@
 
 ---
 
+> Analyzed 500K+ retail transactions to identify ₹16.2L in 
+> return-driven revenue loss and surface product concentration 
+> risks across a 43-country operation.
+
 ## 📌 Business Problem
 
 A UK-based online retailer operates across 43 countries and processes 
